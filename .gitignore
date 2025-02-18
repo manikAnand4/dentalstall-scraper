@@ -1,0 +1,10 @@
+# environment
+/venv
+
+# app specific
+/images
+/db_objects/products.json
+
+# Python bytecode:
+__pycache__/
+
